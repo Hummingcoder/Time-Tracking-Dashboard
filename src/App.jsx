@@ -16,7 +16,7 @@ const App = () => {
         <section className="w-full  px-6 py-8 rounded-2xl bg-blue flex items-center md:flex-col md:items-start justify-start gap-3  md:gap-6">
           <img
             className="w-[60px] border-4 border-white rounded-full"
-            src="./public/images/image-jeremy.png"
+            src="images/image-jeremy.png"
             alt=""
           />
           <div>

@@ -78,7 +78,7 @@
   {
     "title": "Social",
     "color": "hsl(264, 64%, 52%)",
-    "img": "./public/images/icon-social.svg",
+    "img": "images/icon-social.svg",
     "timeframes": {
       "daily": {
         "current": 1,
@@ -97,7 +97,7 @@
   {
     "title": "Self Care",
     "color": "hsl(43, 84%, 65%)",
-    "img": "./public/images/icon-self-care.svg",
+    "img": "images/icon-self-care.svg",
     "timeframes": {
       "daily": {
         "current": 0,
